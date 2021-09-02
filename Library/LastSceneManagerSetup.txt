@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/VrGrabber/Scenes/VrGrabber Example WinMR MotionController.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
